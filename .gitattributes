@@ -1,3 +1,4 @@
 *.mov filter=lfs diff=lfs merge=lfs -text
 *.pptx filter=lfs diff=lfs merge=lfs -text
 *.wmv filter=lfs diff=lfs merge=lfs -text
+All[[:space:]]in[[:space:]]one.zip filter=lfs diff=lfs merge=lfs -text
